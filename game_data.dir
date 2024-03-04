@@ -1,0 +1,7 @@
+'base_profile', (0, 3874)
+'user_profile_dict', (4096, 5504)
+'gamepad_layout_dict', (9728, 827)
+'server_message', (10752, 9)
+'color_choices', (11264, 248)
+'bandana_color_choices', (11776, 288)
+'game_settings', (12288, 58)
